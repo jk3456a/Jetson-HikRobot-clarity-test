@@ -1,0 +1,3 @@
+/home/orinnx/projects/HKrobot/build/CMakeFiles/my_test.dir
+/home/orinnx/projects/HKrobot/build/CMakeFiles/edit_cache.dir
+/home/orinnx/projects/HKrobot/build/CMakeFiles/rebuild_cache.dir

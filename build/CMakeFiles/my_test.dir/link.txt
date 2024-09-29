@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/my_test.dir/src/main.cpp.o CMakeFiles/my_test.dir/src/Clarity.cu.o -o my_test   -L/opt/MVS/lib/aarch64  -L/usr/local/cuda-12.2/targets/aarch64-linux/lib/stubs  -L/usr/local/cuda-12.2/targets/aarch64-linux/lib  -Wl,-rpath,/opt/MVS/lib/aarch64 -lMvCameraControl -lcudadevrt -lcudart_static -lrt -lpthread -ldl 
